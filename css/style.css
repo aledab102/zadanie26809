@@ -1,0 +1,23 @@
+body{
+    background-color: #f5f5dd;
+}
+.div1 {
+    background-color:rgba(7, 7, 7.0);
+    width: 3cm;
+    height: 3cm;
+}
+.div2 {
+    background-color:rgba(31, 30, 30, 0.3);
+    width: 3cm;
+    height: 3cm;
+}
+.div3 {
+    background-color:rgba(121, 121, 121, 0.3);
+    width: 3cm;
+    height: 3cm;
+}
+.div4 {
+    background-color:rgba(192, 191, 191, 0.3);
+    width: 3cm;
+    height: 3cm;
+}
